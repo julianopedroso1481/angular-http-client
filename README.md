@@ -1,5 +1,3 @@
-![Descricao da sua imagem](./thumbnail.png)
-
 # Indexa
 
 Uma aplicação para manipulação de contatos de uma agenda.
